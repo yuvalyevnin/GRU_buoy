@@ -19,4 +19,4 @@ Downloading the full data from Poseidon requires registering and requesting data
 
 ## Authors
 
-[Yuval Yevnin](yuval.yevnin@gmail.com) and Yaron Toledo
+Yuval Yevnin([yuval.yevnin@gmail.com]) and Yaron Toledo
